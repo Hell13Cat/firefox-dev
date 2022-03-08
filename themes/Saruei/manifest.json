@@ -1,0 +1,47 @@
+{
+    "name": "Saruei",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_frame": "saruei.png"
+        },
+        "properties": {
+            "additional_backgrounds_alignment": [
+                "left center"
+            ],
+            "additional_backgrounds_tiling": [
+                "no-repeat"
+            ]
+        },
+        "colors": {
+            "ntp_background": "black",
+            "ntp_text": "white",
+            "tab_background_text": "white",
+            "tab_line":"white",
+            "frame": "black",
+            "frame_inactive": "black",
+            "tab_text": "white",
+            "icons":"red",
+            "toolbar":"rgba(0, 0, 0, 0.5)",
+            "toolbar_field_border":"red",
+            "toolbar_field":"black",
+            "toolbar_field_text":"white",
+            "toolbar_field_highlight_text":"red",
+            "toolbar_field_highlight":"white",
+            "popup":"black",
+            "popup_text":"red",
+            "popup_border":"red",
+            "popup_highlight":"red",
+            "tab_loading":"red",
+            "bookmark_text":"white",
+            "ntb_text":"white",
+            "ntb_background":"black",
+            "sidebar":"black",
+            "sidebar_border":"red",
+            "sidebar_text":"white",
+            "sidebar_highlight":"red",
+            "sidebar_highlight_text":"white"
+        }
+    }
+}
