@@ -1,0 +1,47 @@
+{
+    "name": "Warframe",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "additional_backgrounds": ["warframe.png"]
+        },
+        "properties": {
+            "additional_backgrounds_alignment": [
+                "right bottom"
+            ],
+            "additional_backgrounds_tiling": [
+                "no-repeat"
+            ]
+        },
+        "colors": {
+            "ntp_background": "white",
+            "ntp_text": "black",
+            "tab_background_text": "black",
+            "tab_line":"black",
+            "frame": "white",
+            "frame_inactive": "gray",
+            "tab_text": "black",
+            "icons":"black",
+            "toolbar":"rgba(255, 255, 255, 0.5)",
+            "toolbar_field_border":"black",
+            "toolbar_field":"white",
+            "toolbar_field_text":"black",
+            "toolbar_field_highlight_text":"black",
+            "toolbar_field_highlight":"gray",
+            "bookmark_text":"black",
+            "popup":"white",
+            "popup_text":"black",
+            "popup_border":"black",
+            "popup_highlight":"gray",
+            "tab_loading":"gray",
+            "ntb_text":"black",
+            "ntb_background":"white",
+            "sidebar":"white",
+            "sidebar_border":"black",
+            "sidebar_text":"black",
+            "sidebar_highlight":"gray",
+            "sidebar_highlight_text":"white"
+        }
+    }
+}
