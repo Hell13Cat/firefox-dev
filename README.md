@@ -13,4 +13,4 @@ Extensions and themes for Firefox
 
 ![alt text](datas/WO.svg)
 
-[Warframe light](https://addons.mozilla.org/ru/firefox/addon/warframe-orokin/)
+[Warframe Orokin](https://addons.mozilla.org/ru/firefox/addon/warframe-orokin/)
