@@ -1,0 +1,48 @@
+{
+    "name": "Warframe - Orokin",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "additional_backgrounds": ["warframe.png"]
+        },
+        "properties": {
+            "additional_backgrounds_alignment": [
+                "right bottom"
+            ],
+            "additional_backgrounds_tiling": [
+                "no-repeat"
+            ]
+        },
+        "colors": {
+            "ntp_background": "black",
+            "ntp_text": "white",
+            "tab_background_text": "white",
+            "tab_line":"#d3ad64",
+            "frame": "black",
+            "frame_inactive": "black",
+            "tab_text": "white",
+            "icons":"#d3ad64",
+            "toolbar":"rgba(0, 0, 0, 0.5)",
+            "toolbar_field_border":"#d3ad64",
+            "toolbar_field":"black",
+            "toolbar_field_text":"white",
+            "toolbar_field_highlight_text":"white",
+            "toolbar_field_highlight":"#d3ad64",
+            "bookmark_text":"white",
+            "popup":"black",
+            "popup_text":"white",
+            "popup_border":"#d3ad64",
+            "popup_highlight":"#d3ad64",
+            "popup_highlight_text":"black",
+            "tab_loading":"#d3ad64",
+            "ntb_text":"white",
+            "ntb_background":"black",
+            "sidebar":"black",
+            "sidebar_border":"#d3ad64",
+            "sidebar_text":"white",
+            "sidebar_highlight":"#d3ad64",
+            "sidebar_highlight_text":"black"
+        }
+    }
+}
