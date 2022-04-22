@@ -1,6 +1,12 @@
 # firefox-dev
 Extensions and themes for Firefox
 
+## Extensions
+
+Nude-Moon cover blur remove
+
+[Nude-Moon blur remove](https://addons.mozilla.org/ru/firefox/addon/nude-moon-blur-remove/)
+
 ## Themes
 
 ![alt text](datas/S.svg)
