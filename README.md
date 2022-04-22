@@ -5,7 +5,7 @@ Extensions and themes for Firefox
 
 Nude-Moon cover blur remove
 
-[Nude-Moon blur remove](https://addons.mozilla.org/ru/firefox/addon/nude-moon-blur-remove/)
+[BETA] [Nude-Moon blur remove](https://addons.mozilla.org/ru/firefox/addon/nude-moon-blur-remove/)
 
 ## Themes
 
