@@ -26,5 +26,10 @@
             "matches": ["*://*.hentaiz.org/*", "*://hentaiz.org/*"],
             "js": ["hz.js"]
         }
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "update_url": "https://raw.githubusercontent.com/Hell13Cat/firefox-dev/main/extensions/HSites tools UPD/versions.json"
+        }
+    }
 }
