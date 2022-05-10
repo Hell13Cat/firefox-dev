@@ -1,0 +1,30 @@
+{
+
+    "manifest_version": 2,
+    "name": "HSites tools",
+    "version": "0.2.0",
+    "description": "Hentai sites tools",
+    "applications": {
+        "gecko": {
+            "id": "hsitestools@nyako.icu"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.nude-moon.net/*", "*://nude-moon.net/*"],
+            "js": ["nm.js"]
+        },
+        {
+            "matches": ["*://*.hentaichan.live/*", "*://hentaichan.live/*"],
+            "js": ["hc.js"]
+        },
+        {
+            "matches": ["*://*.hentai-share.tv/*", "*://hentai-share.tv/*"],
+            "js": ["hsh.js"]
+        },
+        {
+            "matches": ["*://*.hentaiz.org/*", "*://hentaiz.org/*"],
+            "js": ["hz.js"]
+        }
+    ]
+}
